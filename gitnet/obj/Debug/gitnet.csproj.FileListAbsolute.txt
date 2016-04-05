@@ -89,3 +89,4 @@ C:\Users\Administrador\Desktop\git\gitnet\gitnet\bin\System.Web.Mvc.xml
 C:\Users\Administrador\Desktop\git\gitnet\gitnet\obj\Debug\gitnet.dll
 C:\Users\Administrador\Desktop\git\gitnet\gitnet\obj\Debug\gitnet.pdb
 C:\Users\Hacybeyker\Documents\Visual Studio 2015\Projects\gitnet\gitnet\obj\Debug\gitnet.csprojResolveAssemblyReference.cache
+C:\Users\Administrador\Desktop\git\gitnet\gitnet\obj\Debug\gitnet.csprojResolveAssemblyReference.cache
