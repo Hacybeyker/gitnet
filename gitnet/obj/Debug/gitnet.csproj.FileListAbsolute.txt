@@ -41,6 +41,5 @@ c:\users\hacybeyker\documents\visual studio 2015\Projects\gitnet\gitnet\bin\Syst
 c:\users\hacybeyker\documents\visual studio 2015\Projects\gitnet\gitnet\bin\System.Web.Webpages.Razor.xml
 c:\users\hacybeyker\documents\visual studio 2015\Projects\gitnet\gitnet\bin\System.Web.Helpers.xml
 c:\users\hacybeyker\documents\visual studio 2015\Projects\gitnet\gitnet\bin\System.Web.Mvc.xml
-c:\users\hacybeyker\documents\visual studio 2015\Projects\gitnet\gitnet\obj\Debug\gitnet.csprojResolveAssemblyReference.cache
 c:\users\hacybeyker\documents\visual studio 2015\Projects\gitnet\gitnet\obj\Debug\gitnet.dll
 c:\users\hacybeyker\documents\visual studio 2015\Projects\gitnet\gitnet\obj\Debug\gitnet.pdb
